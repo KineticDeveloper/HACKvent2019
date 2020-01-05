@@ -3,7 +3,7 @@
 
 https://academy.hacking-lab.com/events/6/challenges/67
 
-In HV19.11 (FSJA API) the platinum joke contains a hint:
+In [HV19.11 (FSJ API)](../11/) the platinum joke contains a hint:
 
     Sometimes bugs are rather stupid. But that's how it happens, sometimes. Doing all the crypto stuff right and forgetting the trivial stuff like input validation, Hohoho!
 

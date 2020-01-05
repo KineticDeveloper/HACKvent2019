@@ -3,7 +3,7 @@
 
 https://academy.hacking-lab.com/events/6/challenges/55
 
-In HV19.07 we have downloaded a SantaRider.zip which was an MP4 file with a strange name. This name could have a meaning... 
+In [HV19.07 Santa Rider](../07/) we have downloaded a SantaRider.zip which was an MP4 file with a strange name. This name could have a meaning... 
 
     3DULK2N7DcpXFg8qGo9Z9qEQqvaEDpUCBB1v
 

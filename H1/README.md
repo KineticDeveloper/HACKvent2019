@@ -3,7 +3,7 @@
 
 https://academy.hacking-lab.com/events/6/challenges/50
 
-In HV19.05 there is an unused hint which can be copied.
+In [HV19.06 bacon and eggs](../06/) there is an unused hint which can be copied.
 Looking in detail at this hint, it has a lot of whitespaces at the end of each line.
 
 Googling for a whitespace cipher shows the following tool
