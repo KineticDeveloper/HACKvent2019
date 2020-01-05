@@ -11,9 +11,9 @@ This is a complicated one...
 2. There is a hint for a railway station with an image.  
 ![railwaystation.jpg](railwaystation.jpg)
 
-   Reverse image search shows hits for
-   - Cambridge North railway station - Wikipedia
-   - Rule 30 - Wikipedia
+   Reverse image search finds the following hits
+   - [Cambridge North railway station - Wikipedia](https://en.wikipedia.org/wiki/Cambridge_North_railway_station)
+   - [Rule 30 - Wikipedia](https://en.wikipedia.org/wiki/Rule_30)
 
 Rule 30 is a rule set for a Wolfram cellular automatom which generates any number of values... it generates an interesting pyramid [see here](http://mathworld.wolfram.com/Rule30.html).
 
