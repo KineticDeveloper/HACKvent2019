@@ -4,8 +4,8 @@ https://academy.hacking-lab.com/events/6/challenges/25
 
 ![censored image](image.jpg)
 
-From the hint in the excercise we expect to find a useful thumbnail image in the JPEG file.  
-As I do not have a tool displaying the raw thumbnail of a jpeg on my Mac, I'm looking to find something useful in the web. Image Magick should be able to do it... But as I was not successfull in extracting the thumbnail using imagemagick (`convert image.jpg exif:thumbnail`), I turned to raw byte manipulation.
+From the hint in the challenge we expect to find a useful thumbnail image in the JPEG file.  
+As I do not have a tool displaying the raw thumbnail of a jpeg on my Mac, I'm looking to find something useful in the web. ImageMagick should be able to do it... But as I was not successfull in extracting the thumbnail using the command `convert image.jpg exif:thumbnail`, I turned to raw byte manipulation.
 
 According to http://www.fastgraph.com/help/jpeg_header_format.html the JPEG header starts with the JPEG SOI marker: `FF D8`
 

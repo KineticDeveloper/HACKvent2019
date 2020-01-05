@@ -8,7 +8,7 @@ Reading the barcode as it is shown with a barcode reader
 
     Not the solution
 
-Splitting the `barcode.png` into raw RGB channels
+Splitting the `barcode.png` into raw RGB channels using ImageMagick
 
 ```bash
 magick barcode.png -separate channels_%d.png

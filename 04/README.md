@@ -2,7 +2,7 @@
 
 https://academy.hacking-lab.com/events/6/challenges/42
 
-In this challenge we have been given a `HV19-PPC.ahk` file which is a language/script for AutoHotKey... a Windows tool.
+In this challenge we have been given a [HV19-PPC.ahk](HV19-PPC.ahk) file which is a language/script for AutoHotkey... a Windows tool.
 
 I've tried to translate the original password manually from
 
