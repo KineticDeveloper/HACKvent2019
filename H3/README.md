@@ -3,6 +3,10 @@
 
 https://academy.hacking-lab.com/events/6/challenges/67
 
+If you want to skip to the most direct solution: scroll down to the last chapter. The first two chapters are showing my odyssey in not solving the challenge, but getting confused and running into the wrong direction.
+
+## My odyssey: day 1
+
 In [HV19.11 (FSJ API)](../11/) the platinum joke contains a hint:
 
     Sometimes bugs are rather stupid. But that's how it happens, sometimes. Doing all the crypto stuff right and forgetting the trivial stuff like input validation, Hohoho!
@@ -38,10 +42,11 @@ But trying to register a user with an empty `username` works!
 
 There doesn't seem to be any validation on this field... even `\" or \"=\"` and `{\"!=\", \"\"}`are accepted as usernames.
 
+## My odyssey: day 2
 
 Fresh day, new approach...
 
-I'm looking at the `token` parameter when calling for a random joke. The test script `test_token_chars.js` is testing which characters of the token are not relevant by setting each character to a value:
+I'm looking at the `token` parameter when calling for a random joke. The test script [test_token_chars.js](test_token_chars.js) is testing which characters of the token are not relevant by setting each character to a value:
 
 Initial token:
 
@@ -69,6 +74,7 @@ The token is base64 encoded! 3 parts separated by `.`
 
 It would have been possible to solve HV19.11 by manipulating the access token?!?! It could have been so easy :-)
 
+## The solution
 
 After discussing my approach with user "bread", he told me that for H3 I have to take a broader view, not only focussing on what we have seen in HV19.11.  
 So I started a portscan on `whale.hacking-lab.com` to know whether there are other services running:
