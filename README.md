@@ -6,7 +6,7 @@ https://hackvent.hacking-lab.com
 
 https://academy.hacking-lab.com/events/6
 
-Here I have collected all my "learnings" and notes for on HACKVent 2019, where I finished on 68th with 3230 points.
+Here I have added links to all my learnings and notes for HACKVent 2019, where I finished with 3230 points on 68th place.
 
 - HV19.H1 Hidden One [my solution](H1/README.md)
 - HV19.H2 Hidden Two [my solution](H2/README.md)
