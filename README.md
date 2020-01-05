@@ -8,6 +8,8 @@ https://academy.hacking-lab.com/events/6
 
 Here I have added links to all my learnings and notes for HACKVent 2019, where I finished with 3230 points on 68th place.
 
+Credits go to all those on Discord who helped me by discussing the challenges and giving me hints (in alphabetic order): Apfelsaft, bread, brp64, The Compiler, haesch, heliistanders, Janny, Meline, mount, SmartSmurf
+
 - HV19.01 censored [my solution](01/)
 - HV19.02 Triangulation [my solution](02/)
 - HV19.03 Hodor, Hodor, Hodor [my solution](03/)
